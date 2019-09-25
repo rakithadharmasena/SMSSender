@@ -1,0 +1,9 @@
+﻿<Window x:Class="CokaColaTRMS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        Title="MainWindow" Height="490" Width="780" Loaded="Window_Loaded">
+    <Grid >
+        <Frame Name="homeContentFrame" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

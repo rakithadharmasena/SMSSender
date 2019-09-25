@@ -1,0 +1,42 @@
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.exe
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.pdb
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\MainWindow.baml
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\MainWindow.g.cs
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\App.g.cs
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS_MarkupCompile.cache
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.g.resources
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.Properties.Resources.resources
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.exe
+c:\users\win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.pdb
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.exe.config
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\Home.baml
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\LoginPage.baml
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\Home.g.cs
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\LoginPage.g.cs
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.csproj.GenerateResource.Cache
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\ConfigureModemPage.baml
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\ConfigureModemPage.g.cs
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Win 7\documents\visual studio 2010\Projects\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS_MarkupCompile.lref
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.exe.config
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.exe
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\bin\Debug\CokaColaTRMS.pdb
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\ConfigureModemPage.baml
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\LoginPage.baml
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\MainWindow.baml
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\ConfigureModemPage.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\Home.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\LoginPage.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\MainWindow.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\App.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS_MarkupCompile.cache
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS_MarkupCompile.lref
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\Home.baml
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.g.resources
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.Properties.Resources.resources
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.csproj.GenerateResource.cache
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.csproj.CoreCompileInputs.cache
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.exe
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.pdb
+D:\projects\CokaColaTRMS-witout-UI-Makeover\CokaColaTRMS\CokaColaTRMS\obj\x86\Debug\CokaColaTRMS.csprojAssemblyReference.cache
